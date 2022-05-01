@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.74ab75d7.css",
-    "main.js": "./static/js/main.f894f28e.js",
+    "main.css": "./static/css/main.655f52f5.css",
+    "main.js": "./static/js/main.b26d0f7f.js",
     "static/js/937.668f3ac0.chunk.js": "./static/js/937.668f3ac0.chunk.js",
     "static/js/787.83ce1910.chunk.js": "./static/js/787.83ce1910.chunk.js",
     "static/media/event11.png": "./static/media/event11.06228a375f2691f40783.png",
     "static/media/DextersLogo.jpg": "./static/media/DextersLogo.c114212d325e47d2600a.jpg",
+    "static/media/event13.png": "./static/media/event13.5d39bbb6fa70dc396415.png",
     "static/media/event6.png": "./static/media/event6.60b004803d35ff5e3e97.png",
-    "static/media/event13.png": "./static/media/event13.1830331d8f391c9581a1.png",
     "static/media/event9.png": "./static/media/event9.c0dd07e3fdc489977023.png",
     "static/media/event1.png": "./static/media/event1.f9323e263735b430bdc0.png",
     "static/media/Threads.png": "./static/media/Threads.50301d230ae8c1d14243.png",
@@ -37,13 +37,13 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.74ab75d7.css.map": "./static/css/main.74ab75d7.css.map",
-    "main.f894f28e.js.map": "./static/js/main.f894f28e.js.map",
+    "main.655f52f5.css.map": "./static/css/main.655f52f5.css.map",
+    "main.b26d0f7f.js.map": "./static/js/main.b26d0f7f.js.map",
     "937.668f3ac0.chunk.js.map": "./static/js/937.668f3ac0.chunk.js.map",
     "787.83ce1910.chunk.js.map": "./static/js/787.83ce1910.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74ab75d7.css",
-    "static/js/main.f894f28e.js"
+    "static/css/main.655f52f5.css",
+    "static/js/main.b26d0f7f.js"
   ]
 }
